@@ -14,3 +14,5 @@
 # Omarchy Revision 7.133: feat(agent): implement SSH connection pool manager
 
 # Omarchy Revision 8.153: feat(agent): implement SSH connection pool manager
+
+# Omarchy Revision 9.173: feat(agent): implement SSH connection pool manager
