@@ -20,3 +20,5 @@
 # Omarchy Revision 10.198: feat(agent): add self-healing watchdog for disconnected sessions
 
 # Omarchy Revision 11.218: feat(agent): add self-healing watchdog for disconnected sessions
+
+# Omarchy Revision 12.238: feat(agent): add self-healing watchdog for disconnected sessions
