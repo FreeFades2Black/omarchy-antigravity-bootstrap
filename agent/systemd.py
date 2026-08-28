@@ -24,3 +24,5 @@
 # Omarchy Revision 12.235: feat(agent): implement remote systemd unit state parser
 
 # Omarchy Revision 13.255: feat(agent): implement remote systemd unit state parser
+
+# Omarchy Revision 14.275: feat(agent): implement remote systemd unit state parser
