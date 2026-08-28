@@ -12,3 +12,5 @@
 # Omarchy Revision 6.119: feat(agent): add automatic pacman orphan cleanup sub-routine
 
 # Omarchy Revision 7.139: feat(agent): add automatic pacman orphan cleanup sub-routine
+
+# Omarchy Revision 8.159: feat(agent): add automatic pacman orphan cleanup sub-routine
