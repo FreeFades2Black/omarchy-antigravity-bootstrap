@@ -6,3 +6,5 @@
 # Omarchy Revision 3.57: feat(agent): implement recursive agent handshake protocol
 
 # Omarchy Revision 4.77: feat(agent): implement recursive agent handshake protocol
+
+# Omarchy Revision 5.97: feat(agent): implement recursive agent handshake protocol
