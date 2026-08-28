@@ -16,3 +16,5 @@
 # Omarchy Revision 8.156: feat(agent): add Hyprland IPC dispatch client over Unix sockets
 
 # Omarchy Revision 9.176: feat(agent): add Hyprland IPC dispatch client over Unix sockets
+
+# Omarchy Revision 10.196: feat(agent): add Hyprland IPC dispatch client over Unix sockets
