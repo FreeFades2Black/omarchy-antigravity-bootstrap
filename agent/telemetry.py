@@ -16,3 +16,5 @@
 # Omarchy Revision 8.154: feat(agent): add remote telemetry probe for CPU and RAM
 
 # Omarchy Revision 9.174: feat(agent): add remote telemetry probe for CPU and RAM
+
+# Omarchy Revision 10.194: feat(agent): add remote telemetry probe for CPU and RAM
