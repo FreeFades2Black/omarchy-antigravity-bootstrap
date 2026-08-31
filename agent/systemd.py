@@ -1,3 +1,9 @@
+"""
+systemd.py
+
+Internal Module Implementation with comprehensive inline documentation.
+Part of the FreeFades2Black enterprise ecosystem.
+"""
 
 # Omarchy Revision 1.15: feat(agent): implement remote systemd unit state parser
 

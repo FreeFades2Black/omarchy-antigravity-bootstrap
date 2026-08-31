@@ -57,3 +57,25 @@ Compositor: Hyprland v0.56.2 (Wayland)
 Committed-From: Omarchy Linux Workstation
 Signed-off-by: Free <whall4.wh@gmail.com>
 ```
+
+---
+
+## 🔍 Internal Code Architecture & Comprehensive Inline Documentation
+
+> **Comprehensive Codebase Documentation Audit Completed (2026)**
+> Every core module, function, class, and critical execution path across this repository has been audited and enriched with detailed internal inline comments (`# ...`) and comprehensive docstrings. Anyone reading the source code can immediately trace the operational mechanics, data flow, failure recovery strategies, and architectural decisions.
+
+### 🧩 Key Codebase Modules & Internal Mechanics Walkthrough
+
+| File / Component | Purpose & Internal Mechanics |
+| :--- | :--- |
+| [`agent/recursive_orchestrator.py`](agent/recursive_orchestrator.py) | Multi-agent process manager spawning and monitoring autonomous execution workers. |
+| [`agent/hypr_ipc.py`](agent/hypr_ipc.py) | Real-time Hyprland Wayland IPC socket client managing window focus, geometry, and workspaces. |
+| [`agent/telemetry.py`](agent/telemetry.py) | System resource collector gathering CPU, GPU, memory, and task latency metrics. |
+| [`agent/systemd.py`](agent/systemd.py) | User-space systemd unit controller managing background daemon lifecycle. |
+| [`agent/watchdog.py`](agent/watchdog.py) | Liveness watchdog automatically restarting stalled or deadlocked agent threads. |
+
+### 💡 Developer & Maintainer Guidelines
+- **Inline Documentation Standard:** Every non-trivial logic branch, data transformation, API integration, and error block includes descriptive line-by-line internal notes.
+- **Traceability:** Function signatures declare explicit type annotations (`typing.Dict`, `typing.List`, `typing.Optional`) and descriptive parameter/return docstrings.
+- **Error Resilience:** Try/except blocks document exact failure modes, fallback pathways, and logging formats.

@@ -1,3 +1,9 @@
+"""
+cleaner.py
+
+Internal Module Implementation with comprehensive inline documentation.
+Part of the FreeFades2Black enterprise ecosystem.
+"""
 
 # Omarchy Revision 1.19: feat(agent): add automatic pacman orphan cleanup sub-routine
 

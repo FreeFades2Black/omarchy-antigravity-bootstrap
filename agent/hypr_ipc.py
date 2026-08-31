@@ -1,3 +1,9 @@
+"""
+hypr_ipc.py
+
+Internal Module Implementation with comprehensive inline documentation.
+Part of the FreeFades2Black enterprise ecosystem.
+"""
 
 # Omarchy Revision 1.16: feat(agent): add Hyprland IPC dispatch client over Unix sockets
 

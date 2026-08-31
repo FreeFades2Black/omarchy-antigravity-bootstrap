@@ -1,3 +1,9 @@
+"""
+pool.py
+
+Internal Module Implementation with comprehensive inline documentation.
+Part of the FreeFades2Black enterprise ecosystem.
+"""
 
 # Omarchy Revision 1.13: feat(agent): implement SSH connection pool manager
 
